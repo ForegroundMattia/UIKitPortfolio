@@ -115,5 +115,5 @@ xcuserdata
 
 # End of https://www.toptal.com/developers/gitignore/api/swift,swiftpackagemanager,swiftpm,xcode,xcodeinjection
 .DS_Store
-UiKitPortfolio.xcodeproj/project.xcworkspace/contents.xcworkspacedata
-UiKitPortfolio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+UIKitPortfolio.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+UIKitPortfolio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
