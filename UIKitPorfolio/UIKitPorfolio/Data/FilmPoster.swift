@@ -12,7 +12,7 @@ import SwiftUI
 struct FilmPoster{
     
     var titolo : String
-    var rate : Int
+    var rate : Float
     var comment : String
     var poster : Image
     
