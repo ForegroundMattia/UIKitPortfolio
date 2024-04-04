@@ -11,10 +11,12 @@ import SwiftUI
 
 struct FilmPoster{
     
+    var id : Int 
+    
     var titolo : String
     var rate : Float
     var comment : String
-    var poster : Image
+    var poster : String
     
     
 }
